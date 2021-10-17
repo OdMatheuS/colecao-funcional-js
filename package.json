@@ -1,10 +1,12 @@
 {
-  "name": "ramdajs",
-  "version": "1.0.0",
-  "main": "index.js",
-  "author": "Matheus Nagot <matheusnagot@hotmail.com>",
-  "license": "MIT",
-  "devDependencies": {
-    "ramda": "^0.27.1"
-  }
+	"name": "ramdajs",
+	"version": "1.0.0",
+	"main": "index.js",
+	"author": "Matheus Nagot <matheusnagot@hotmail.com>",
+	"license": "MIT",
+	"devDependencies": {
+		"nodemon": "^2.0.13",
+		"prettier": "2.4.1",
+		"ramda": "^0.27.1"
+	}
 }
