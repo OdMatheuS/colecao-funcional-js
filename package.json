@@ -1,0 +1,10 @@
+{
+  "name": "ramdajs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Matheus Nagot <matheusnagot@hotmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "ramda": "^0.27.1"
+  }
+}
